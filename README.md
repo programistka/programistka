@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello! 👋 👩‍💻
+
+Ask me about:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+How to reach me 🌎:
+- [Blog](https://programistka.com)
+- [Twitter](https://twitter.com/programistka)
+- [LinkedIn](https://www.linkedin.com/in/programistka)
 
 <!--
 **programistka/programistka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
