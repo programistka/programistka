@@ -14,6 +14,9 @@ How to reach me 🌎:
 - [Twitter](https://twitter.com/programistka)
 - [LinkedIn](https://www.linkedin.com/in/programistka)
 
+[![Programistka's GitHub stats](https://github-readme-stats.vercel.app/api?username=programistka)](https://github.com/programistka/github-readme-stats)
+
+
 <!--
 **programistka/programistka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
